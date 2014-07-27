@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSaildoc>
+	<CSailDef name="CSailDef"/>
+	<enumSailCut name="sailCut" value="CROSS"/>
+	<string name="SailID" value=""/>
+</CSaildoc>
